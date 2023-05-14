@@ -6,7 +6,7 @@
  
   A Skilled Java Developer 🚀 from India. Always working on some project or learning something new!<br>
 <i>Stacks I have worked with :</i> C++, Java, HTML, CSS, Javascript, BOOTSTRAP & 
-<i>Freamworks : </i> Django.<br>
+<i>Freamwork : </i> Django.<br>
 <i>Things I am currently experimenting with :</i> Django, React.js Projects and APIs.</b> 
 </p>
 
