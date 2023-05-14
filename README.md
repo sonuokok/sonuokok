@@ -5,7 +5,7 @@
 <p align='center'>
  
   A Skilled Java Developer 🚀 from India. Always working on some project or learning something new!
-<i>Stacks I have worked with :</i> C++, Java, HTML, CSS, Javascript, BOOTSTRAP.
+<i>Stacks I have worked with :</i> C++, Java, HTML, CSS, Javascript, BOOTSTRAP.<br>
 <i>Freamworks : </i> Django.
 <i>Things I am currently experimenting with :</i> Django Projects and APIs...</b> 
 </p>
