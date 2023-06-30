@@ -5,7 +5,7 @@
 <p align='center'>
  
  &nbsp;&nbsp;&nbsp;&nbsp; A Skilled Full Stack Developer 🚀 from India. Always working on some project or learning something new Technology!<br>
-<i>&nbsp;&nbsp;&nbsp;&nbsp;Stacks I have worked with :</i> C++, Java, HTML, CSS, Javascript & 
+<i>&nbsp;&nbsp;&nbsp;&nbsp;Stacks I have worked with :</i> C++, Java, HTML, CSS, Javascript  & 
 <i>&nbsp;&nbsp;&nbsp;&nbsp;Freamworks : </i> BOOTSTRAP, Spring, Hibernate.<br>
 <i>&nbsp;&nbsp;&nbsp;&nbsp;Things I am currently experimenting with :</i> JavaScript, React.js Projects, .NET, PHP, Network Security and APIs.</b> 
 </p>
